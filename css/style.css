@@ -60,6 +60,7 @@ body {
 	font-weight:normal;
 	color:#888888;
 	margin:0;
+	background-color: #021327;
 }
 h2{
 	font-size:34px;
@@ -97,8 +98,8 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black_2X.png) left top repeat;
-	padding:280px 0;
+	/*background:url(../img/pw_maze_black_2X.png) left top repeat;*/
+	/*padding:280px 0;*/
 }
 .logo{
 	width:130px;
@@ -178,7 +179,7 @@ color: #fff;
 	border-bottom:1px solid #dddddd;
 	box-shadow:0 4px 5px -3px #ececec;
 	position:relative;
-	background:#fff;
+	background:#1555D1;
 }
 .main-nav{
 	text-align:center;
@@ -192,7 +193,8 @@ color: #fff;
 }
 .main-nav li a{
 	display:inline-block;
-	color:#222222;
+	/*color:#222222;*/
+	color:#fff;
 	text-transform:uppercase;
 	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
@@ -205,7 +207,8 @@ color: #fff;
 
 .main-nav li a:hover{ 
 	text-decoration:none;
-	color: #7cc576;
+	/*color: #7cc576;*/
+	color: #fff;
 }
 
 .small-logo{ 
@@ -242,6 +245,16 @@ color: #fff;
 }
 .main-section.alabaster{
 	background:#fafafa;
+	position:relative;
+}
+
+.main-section.blue_fish{
+	/*background:#021327;*/
+	/*padding:0px;*/
+	border-bottom:1px solid #dddddd;
+	box-shadow:0 4px 5px -3px #ececec;
+	position:relative;
+	background:#021327;
 }
 
 /* Featured Work
