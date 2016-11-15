@@ -8,3 +8,6 @@ Author URL: https://bootstrapmade.com
 
 sugerencia
 https://www.youtube.com/watch?v=zJ7hUvU-d2Q
+
+pdf compresser
+https://smallpdf.com

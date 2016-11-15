@@ -563,7 +563,7 @@ border: 2px solid #fff;
 	height:100%;
 }
 .team-leader:hover .team-leader-shadow{
-	box-shadow:inset  0px 0px 0px 148px rgba(17,17,17,0.80);
+	box-shadow:inset  0px 0px 0px 148px rgba(2, 18, 38,0.80);
 }
 .team-leader:hover ul{ display:block; opacity:1}
 .team-leader img{
