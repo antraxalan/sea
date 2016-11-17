@@ -147,8 +147,81 @@
 	padding: 40px 0 40px 0;
 }
 .span_title_vacation{
-	font-size: 40px;
+	font-size: 50px;
 	color:white;
 	font-family: "ArialBlack";
 	/*margin: 40px 0 40px 0;*/
+}
+
+
+
+
+.main_comm{
+	font-size: 30px;
+	color:#1555D1;
+	font-family: "ArialBold";
+	margin-top: 50px;
+	padding: 40px 60px 40px 60px;
+}
+.vacation_img{
+	
+	/*margin-top: 50px;*/
+	text-align: left;
+	/*padding: 0 80px 0 80px;*/
+}
+
+
+.price_center{
+	text-align: center;
+	font-size: 30px;
+	color:#1555D1;
+	font-family: "ArialBold";
+
+}
+.general_descr p{
+	color: gray;
+}
+#nav_about{
+	background-image: url("../img/bs/1fondo2sm.jpg");
+	background-size: cover;
+}
+.general_descr_left{
+	font-family: "ArialBold";
+	font-size: 16px;
+	text-align: justify;
+	line-height: 40px;
+	color: white;
+	/*margin: 10px 0 20px 0;*/
+	padding:0 10px 0 0px;
+}
+.left_descr {
+	text-align: right;
+}
+.left_descr li{list-style-type: none}
+.left_descr li:before{content: "- "}
+.google_maps {
+	width: 100%;
+	padding: 50px 100px 50px 100px;
+}
+#nav_about2{
+	background-image: url("../img/bs/1fondo2sm.jpg");
+	background-size: cover;
+}
+.footer_sea{
+	margin: 40px 0 50px 0;
+	text-align: center;
+}
+
+.last_number{
+	font-size: 70px;
+	color:white;
+	font-family: "ArialBlack";
+	padding: 20px;
+	/*margin: 40px 0 40px 0;*/
+}
+.end{
+	width: 100%;
+	height: 40px;
+	margin-top: 50px;
+	background-color: #1555D1;
 }
