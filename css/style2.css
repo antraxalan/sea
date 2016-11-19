@@ -111,14 +111,14 @@ p{
 	width:130px;
 	margin:0 auto 35px;
 }
-.header h1{
+/*.header h1{
 	font-family: 'ArialBlack';
 	font-size:50px;
 	font-weight:400;
 	letter-spacing: -1px;
 	margin:0 0 22px 0 ;
 	color:#fff;
-}
+}*/
 
 .we-create{
 	padding:0;
@@ -127,7 +127,7 @@ p{
 .wp-pic{
 	margin-bottom:20px;
 }
-.we-create li{
+/*.we-create li{
 	display:inline-block;
 	font-family: 'ArialBlack';
 	font-size:14px;
@@ -136,7 +136,7 @@ p{
 	font-weight: 400;
 	margin:0 5px 0 0;
 	padding:0 0 0 15px;
-}
+}*/
 .we-create li:first-child{
 	background:none;
 }
