@@ -146,7 +146,7 @@ dl {
   background-color: #5bc0de; }
 
 .bg-warning {
-  background-color: #f0ad4e; }
+  background-color: #ffffff; }
 
 .bg-danger {
   background-color: #d9534f; }
@@ -416,7 +416,7 @@ body.login2 {
         .navbar .container-fluid.top-bar .nav > li.settings .settings-link.green span {
           background: #60c560; }
         .navbar .container-fluid.top-bar .nav > li.settings .settings-link.orange span {
-          background: #f0ad4e; }
+          background: #ffffff; }
         .navbar .container-fluid.top-bar .nav > li.settings .settings-link.magenta span {
           background: #c741c9; }
         .navbar .container-fluid.top-bar .nav > li.settings .settings-link.gray span {
@@ -564,10 +564,10 @@ body.login2 {
 
 .btn-warning:hover, .btn-warning.active {
   background: transparent;
-  color: #f0ad4e;
-  border-color: #f0ad4e; }
+  color: #ffffff;
+  border-color: #ffffff; }
   .btn-warning:hover .caret, .btn-warning.active .caret {
-    border-top-color: #f0ad4e; }
+    border-top-color: #ffffff; }
 
 .btn-danger:hover, .btn-danger.active {
   background: transparent;
@@ -635,12 +635,12 @@ body.login2 {
       border-top-color: white; }
 
 .btn-warning-outline {
-  color: #f0ad4e;
-  border: 1px solid #f0ad4e; }
+  color: #ffffff;
+  border: 1px solid #ffffff; }
   .btn-warning-outline .caret {
-    border-top-color: #f0ad4e; }
+    border-top-color: #ffffff; }
   .btn-warning-outline:hover, .btn-warning-outline.active {
-    background: #f0ad4e;
+    background: #ffffff;
     color: white; }
     .btn-warning-outline:hover .caret, .btn-warning-outline.active .caret {
       border-top-color: white; }
@@ -692,7 +692,7 @@ body.login2 {
   .btn-group.dropup .btn-info:hover .caret, .btn-group.dropup .btn-info-outline .caret {
     border-bottom-color: #5bc0de; }
   .btn-group.dropup .btn-warning:hover .caret, .btn-group.dropup .btn-warning-outline .caret {
-    border-bottom-color: #f0ad4e; }
+    border-bottom-color: #ffffff; }
   .btn-group.dropup .btn-danger:hover .caret, .btn-group.dropup .btn-danger-outline .caret {
     border-bottom-color: #d9534f; }
 
@@ -1369,7 +1369,7 @@ th:active {
   .social-widget.pinterest {
     background-color: #e54c42; }
   .social-widget.instagram {
-    background-color: #f0ad4e; }
+    background-color: #ffffff; }
   .social-widget.dribbble {
     background-color: #ea4c89; }
   .social-widget [class^="icon-"], .social-widget [class*=" icon-"] {
@@ -1958,9 +1958,9 @@ input[type="text"] {
     display: block; }
 
 .has-warning .help-block, .has-warning .control-label {
-  color: #f0ad4e; }
+  color: #ffffff; }
 .has-warning .form-control {
-  border-color: #f0ad4e; }
+  border-color: #ffffff; }
 
 .has-error .help-block, .has-error .control-label {
   color: #d9534f; }
@@ -2158,12 +2158,12 @@ input[type="text"] {
   vertical-align: middle; }
 
 .control-group.warning .fileupload .uneditable-input {
-  color: #a47e3c;
-  border-color: #a47e3c; }
+  color: #ffffff;
+  border-color: #ffffff; }
 .control-group.warning .fileupload .fileupload-preview {
-  color: #a47e3c; }
+  color: #ffffff; }
 .control-group.warning .fileupload .img-thumbnail {
-  border-color: #a47e3c; }
+  border-color: #ffffff; }
 .control-group.error .fileupload .uneditable-input {
   color: #b94a48;
   border-color: #b94a48; }
@@ -2234,7 +2234,7 @@ input[type="text"] {
   .progress .progress-bar-success {
     background-color: #60c560; }
   .progress .progress-bar-warning {
-    background-color: #f0ad4e; }
+    background-color: #ffffff; }
   .progress .progress-bar-danger {
     background-color: #d9534f; }
 
@@ -2291,7 +2291,7 @@ input[type="text"] {
   color: #5bc0de; }
 
 .text-warning {
-  color: #f0ad4e; }
+  color: #ffffff; }
 
 .text-danger {
   color: #d9534f; }
@@ -2522,8 +2522,8 @@ button.close {
     color: #49a4bf; }
   .fc-event.label-warning {
     background-color: #fdf3e4;
-    border-left: 2px solid #f0ad4e;
-    color: #f0ad4e; }
+    border-left: 2px solid #ffffff;
+    color: #ffffff; }
   .fc-event.label-danger {
     background-color: #fbefee;
     border-left: 2px solid #d9534f;
@@ -2558,8 +2558,8 @@ button.close {
       color: #49a4bf; }
     #event_box .label.label-warning {
       background-color: #fdf3e4;
-      border-left: 2px solid #f0ad4e;
-      color: #f0ad4e; }
+      border-left: 2px solid #ffffff;
+      color: #ffffff; }
     #event_box .label.label-danger {
       background-color: #fbefee;
       border-left: 2px solid #d9534f;

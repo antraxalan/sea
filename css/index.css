@@ -1,3 +1,4 @@
+
 .transparent_tittle { 
 	background-color:#fff; 
 	overflow:hidden;
@@ -5,6 +6,60 @@
 	font-weight:bold;
 	font-family:arial;
 	color:transparent;
+}
+.banderin{
+	width: 40%;
+	margin-top: -2px;
+	opacity: 0.7;
+}
+/*
+img.banderin {
+    opacity: 0.4;
+}
+img.banderin:hover {
+    opacity: 1; // no point in going higher than 1 here
+}
+*/
+
+.num_head{
+	color: #fff;
+	font-family: "ArialBlack";
+	font-size: 16px;
+	font-weight: 400;
+	margin: 10px 10px 0 10px;
+	vertical-align:middle;
+}
+.cont_icon_head{
+	margin: 10px 10px 0 10px;
+	vertical-align:middle;
+} 
+.cont_icon_head img{
+	width: 25px;
+	margin: 9px 0px;
+}
+
+
+.title_home{
+	/*margin-top: 180px !important;*/
+	font-family: "ArialBlack";
+	color:white ; 
+	/*font-size: 60px ;*/
+	font-weight: bold ;
+}
+.sub_title_home{
+	font-family: "ArialBold";
+	letter-spacing: 2px;
+	color:white ; 
+	font-size: 20px ;
+	font-weight: bold ;
+	padding:5px 0 20px;
+}
+
+
+.what_catch{
+
+	font-family: "ArialBlack";
+	/*font-family: "ArialBold";*/
 }
 #nav_boats{
 	background-image: url("../img/bs/1fondo2sm.jpg");
@@ -41,11 +96,17 @@
 	width:20%;
 	display:inline-block;
 }
+.normal_img_grp img{
+	width: 300px;
+}
+.small_img_grp img{
+	width: 300px;
+}
 .banner_fishing{
 	height: 100%;
 }
 #nav_charters{
-	background-image: url("../img/bs/1fondo2sm.jpg");
+	background-image: url("../img/bs/24.jpg");
 	background-size: cover;
 }
 .blue_mess{
@@ -83,6 +144,27 @@
 	margin-bottom: 10px;
 }
 
+.capt_btn_cont {
+  position:relative;
+  /*height:281px;*/
+  width:100%;
+  margin:0 auto;
+  cursor: pointer;
+}
+
+.capt_btn_cont img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  -moz-transition: opacity 0.3s ease-in-out;
+  -o-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.capt_btn_cont img.top:hover {
+  opacity:0;
+}
+
 .desc_char{
 	color: white ;
 	font-size:12px ;
@@ -106,39 +188,38 @@
 	font-size: 30px;
 	text-align: center;
 	color: white;
-	margin: 50px 0 0 0;
+	margin: 30px 0 0 0;
 }
 .subtitle_gallery{
 	font-family: "ArialBold";
 	font-size: 24px;
 	text-align: center;
 	color: white;
-	margin: 10px 0 0 0;
+	/*margin: 5px 0 0 0;*/
 }
 .drone_icon{
-	
-	margin: 40px 0 40px 0;
-	width:150px;
+	margin: 20px 0 20px 0;
+	width:130px;
 }
 .general_descr{
 	font-family: "ArialBold";
 	font-size: 16px;
 	text-align: justify;
-	line-height: 40px;
+	line-height: 30px;
 	color: white;
 	/*margin: 10px 0 20px 0;*/
 	padding:0 50px 0 50px;
 }
 .cup_icon{
-	margin: 40px 0 40px 0;
-	width:100px;
+	margin: 25px 0 25px 0;
+	width:55px;
 }
 .title_tourn{
 	font-family: "ArialBold";
 	font-size: 18px;
 	text-align: left;
 	color: #1555D1;
-	margin: 30px 0 5px 50px;
+	margin: 10px 0 5px 50px;
 }
 .title_vacation{
 	font-size: 30px;
@@ -182,14 +263,14 @@
 	color: gray;
 }
 #nav_about{
-	background-image: url("../img/bs/1fondo2sm.jpg");
+	background-image: url("../img/bs/24.jpg");
 	background-size: cover;
 }
 .general_descr_left{
 	font-family: "ArialBold";
-	font-size: 16px;
+	font-size: 14px;
 	text-align: justify;
-	line-height: 40px;
+	line-height: 20px;
 	color: white;
 	/*margin: 10px 0 20px 0;*/
 	padding:0 10px 0 0px;
@@ -208,12 +289,12 @@
 	background-size: cover;
 }
 .footer_sea{
-	margin: 40px 0 50px 0;
+	margin: 40px 0 20px 0;
 	text-align: center;
 }
 
 .last_number{
-	font-size: 70px;
+	/*font-size: 70px;*/
 	color:white;
 	font-family: "ArialBlack";
 	padding: 20px;
@@ -227,6 +308,6 @@
 }
 
 .btn{
-white-space:normal !important;
-    max-width:1600px;
+	white-space:normal !important;
+	max-width:1600px;
 }
