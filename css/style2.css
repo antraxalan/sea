@@ -88,7 +88,7 @@ h3{
 }
 h6{
 	font-size:16px;
-	color:#888888;
+	color:#D7D7D7;
 	font-family: 'ArialBold';
 	font-weight:400;
 	text-align:center;
@@ -738,7 +738,7 @@ img {
 	display:block;
 	border-radius:4px;
 	font-size:15px;
-	color:#aaa;
+	color:#021327;
 	font-family: 'ArialBold';
 	margin:0 0 15px 0;
 	transition:all 0.3s ease-in-out;
